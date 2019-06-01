@@ -1,9 +1,9 @@
-let myObj = {
-    name: 'Ankur',
-    class: '10th',
-    roll_no: 173698,
-    age: 24
-}
+// let myObj = {
+//     name: 'Ankur',
+//     class: '10th',
+//     roll_no: 173698,
+//     age: 24
+// }
 
 // delete myObj["name"];
 // delete myObj["age"];
