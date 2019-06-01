@@ -48,7 +48,34 @@
 //   console.log("i am called");
 // }
 
-let a = 1;
-let b = 2;
+let arr = [1, 2, 3, 4, 5, 6, 7, 1, 2, 3];
 
-console.log(Math.max(a, b));
+// let a = 1;
+// let b = 2;
+
+// console.log(Math.max(a, b));
+// console.log(Math.min(1, 2,3,4,5));
+
+// console.log(Math.max(...arr))
+
+// let gratestNumber = arr[0];
+
+// for (let item of arr) {
+//   if (item > gratestNumber) {
+//     gratestNumber = item;
+//   }
+// }
+
+// console.log(gratestNumber);
+
+// let str = '12345'
+
+// console.log(typeof str)
+
+// let number = +str
+
+// console.log(typeof number)
+
+// let date = new Date();
+
+// console.log(date.toUTCString());
